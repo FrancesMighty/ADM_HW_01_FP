@@ -1,9 +1,9 @@
 # ADM_HW_01_FP
-##Repository structure for homework #1
-###Francesca Possenti, 1603567
+## Repository structure for homework #1
+### Francesca Possenti, 1603567
 ---
 
-##*Content description*
+## *Content description*
 1. __`scripts.py`__: 
 	> This file provides the code of each mini-program from exercise 1. 
 
