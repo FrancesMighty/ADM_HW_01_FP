@@ -8,7 +8,7 @@
 	> This file provides the code of each mini-program from exercise 1. 
 
 2. __`scripts2.py`__: 
-	> This file provides the code of each mini-program from exercice 2.
+	> This file provides the code of each mini-program from exercise 2.
 	
 3. __`submission.pdf`__: 
-	> This file provides the submission visualization from HackerRank website. It refers to exercice 1 and 2.
+	> This file provides the submission visualization from HackerRank website. It refers to exercises 1 and 2.
